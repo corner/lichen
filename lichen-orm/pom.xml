@@ -22,7 +22,7 @@
         <version>0.1-SNAPSHOT</version>
     </parent>
     <artifactId>lichen-orm</artifactId>
-    <groupId>com.github.corner.lichen-orm</groupId>
+    <groupId>${project.parent.groupId}</groupId>
     <version>${project.parent.version}</version>
     <name>Lichen Object/Mapping Integration</name>
     <dependencies>

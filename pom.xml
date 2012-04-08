@@ -46,7 +46,7 @@
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
-				<groupId>lichen</groupId>
+				<groupId>${project.groupId}</groupId>
 				<artifactId>lichen-orm</artifactId>
 				<version>${project.version}</version>
 			</dependency>
