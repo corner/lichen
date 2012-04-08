@@ -16,17 +16,17 @@
 -->
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>lichen</groupId>
+	<groupId>com.github.corner</groupId>
 	<artifactId>lichen-project</artifactId>
 	<packaging>pom</packaging>
 	<version>0.1-SNAPSHOT</version>
 	<name>Lichen Project</name>
 	<description>Master project for the modules of lichen Project.</description>
 	<inceptionYear>2011</inceptionYear>
-	<url>http://jcai.github.com/lichen</url>
+    <url>http://github.com/corner/lichen</url>
 	<organization>
 		<name>Lichen Team.</name>
-        <url>http://jcai.github.com/lichen</url>
+        <url>http://github.com/corner/lichen</url>
 	</organization>
 	<developers>
 		<developer>

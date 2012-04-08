@@ -18,11 +18,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>lichen-project</artifactId>
-        <groupId>lichen</groupId>
+        <groupId>com.github.corner</groupId>
         <version>0.1-SNAPSHOT</version>
     </parent>
     <artifactId>lichen-orm</artifactId>
-    <groupId>lichen-orm</groupId>
+    <groupId>com.github.corner.lichen-orm</groupId>
     <version>${project.parent.version}</version>
     <name>Lichen Object/Mapping Integration</name>
     <dependencies>
