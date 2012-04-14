@@ -19,11 +19,11 @@
     <parent>
         <artifactId>lichen-project</artifactId>
         <groupId>com.github.corner</groupId>
-        <version>0.2</version>
+        <version>0.3-SNAPSHOT</version>
     </parent>
     <artifactId>lichen-orm</artifactId>
     <groupId>com.github.corner</groupId>
-    <version>0.2</version>
+    <version>0.3-SNAPSHOT</version>
     <name>Lichen Object/Mapping Integration</name>
     <dependencies>
         <dependency>
